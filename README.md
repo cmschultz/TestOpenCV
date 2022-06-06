@@ -1,2 +1,2 @@
 # TestOpenCV
-Códigos desenvolvidos após o treinamento de OpenCV da BlackBee Drones.
+Códigos desenvolvidos após os treinamentos de Python, Git/Github e OpenCV da BlackBee Drones.
