@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-cap = cv2.VideoCapture(0)
+cap = cv2.VideoCapture('videos/video.mp4')
 
 if (cap.isOpened()== False):
   print("Error opening video stream or file")
